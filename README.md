@@ -1,2 +1,2 @@
 # StryxLib
- My shared libraries
+A place for all my common code.
